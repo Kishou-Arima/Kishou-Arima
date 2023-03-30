@@ -7,6 +7,7 @@
 - 📫 How to reach me: Discord at 雷様#2009 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play PC games more than 8 hours a week.
+- 🖼️ My Digital Art: <a href="deviantart.com/augustusdruzod">DeviantArt</a>
 <hr>
 
 ## I work with these Languages :
@@ -19,7 +20,6 @@
 
 
 <br/><br/><br/>
-<hr>
 
 ## Why don't you look around my codes?
 Correct them, or look for some inspiration?
