@@ -7,7 +7,7 @@ Robotics Engineer, Digital Artist, PC Gamer, Asset Dev
 - 📫 How to reach me: Discord at mechtech34 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I also produce digital music as hobby
-- 🖼️ My Digital Art: [DeviantArt](deviantart.com/augustusdruzod)
+- 🖼️ My Digital Art: [DeviantArt](https://deviantart.com/augustusdruzod)
 - 👨‍💻 My Codes: You are already here
 
 
