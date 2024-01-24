@@ -16,12 +16,12 @@ Robotics Engineer, Digital Artist, PC Gamer, Asset Dev
 
 
 ## Tech Stack :
-<a href="#"><img src="https://img.shields.io/badge/dotnet?style=for-the-badge&logo=dotnet" alt=".NET"></a>
-<a href="#"><img src="https://img.shields.io/badge/csharp?style=for-the-badge&logo=csharp" alt="C#"></a>
-<a href="#"><img src="https://img.shields.io/badge/cplusplus?style=for-the-badge&logo=c%2B%2B" alt="C++"></a>
-<a href="#"><img src="https://img.shields.io/badge/java?style=for-the-badge&logo=java" alt="JAVA"></a>
-<a href="#"><img src="https://img.shields.io/badge/assemblyscript?style=for-the-badge&logo=assemblyscript" alt="Assembly Script"></a>
-<a href="#"><img src="https://img.shields.io/badge/arduino?style=for-the-badge&logo=arduino" alt="Arduino"></a>
-<a href="#"><img src="https://img.shields.io/badge/python?style=for-the-badge&logo=python" alt="Python"></a>
-
+<a href="#"><img src="https://img.shields.io/badge/dotnet-grey?style=for-the-badge&logo=dotnet" alt=".NET"></a>
+<a href="#"><img src="https://img.shields.io/badge/csharp-grey?style=for-the-badge&logo=csharp" alt="C#"></a>
+<a href="#"><img src="https://img.shields.io/badge/cplusplus-grey?style=for-the-badge&logo=c%2B%2B" alt="C++"></a>
+<a href="#"><img src="https://img.shields.io/badge/java-grey?style=for-the-badge&logo=java" alt="JAVA"></a>
+<a href="#"><img src="https://img.shields.io/badge/assembly%20script-grey?style=for-the-badge&logo=assemblyscript" alt="Assembly Script"></a>
+<a href="#"><img src="https://img.shields.io/badge/arduino-grey?style=for-the-badge&logo=arduino" alt="Arduino"></a>
+<a href="#"><img src="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python" alt="Python"></a>
+<a href="#"><img src="https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5" alt="HTML5"></a>
 
