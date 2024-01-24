@@ -11,7 +11,8 @@ Robotics Engineer, Digital Artist, PC Gamer, Asset Dev
 
 
 ## Stats & Contributions :
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishou-Arima&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Stats"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Kishou-Arima&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Stats"></a>
+</br>
 <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishou-Arima&theme=synthwave&hide_border=true" alt="Stats"></a>
 
 
