@@ -3,7 +3,7 @@
 Robotics Engineer, Digital Artist, PC Gamer, Asset Dev
 
 - 🔭 I’m working on several projects
-- 🌱 I’m currently pursuing B.Tech in Robotics and Automation Engineering
+- 🌱 I’m Graduated with a degree in B.Tech in Robotics and Automation Engineering
 - 📫 How to reach me: Discord at mechtech34 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I also produce digital music as hobby
