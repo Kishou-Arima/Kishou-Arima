@@ -12,8 +12,8 @@ Robotics Engineer, Digital Artist, PC Gamer, Asset Dev
 
 ## Stats & Contributions :
 <img src="https://github-readme-stats.vercel.app/api?username=Kishou-Arima&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishou-Arima&theme=dracula&hide_border=true" alt="Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishou-Arima&layout=compact&theme=dracula">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishou-Arima&theme=dracula&hide_border=true&count_private=true" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishou-Arima&layout=compact&theme=dracula&hide_border=true&count_private=true">
 
 
 ## Tech Stack :
