@@ -3,12 +3,9 @@
 Robotics Engineer, Digital Artist, PC Gamer, Asset Dev
 
 - 🔭 I’m working on several projects
-- 🌱 I’m Graduated with a degree in B.Tech in Robotics and Automation Engineering
+- 🌱 Masters in Automation and Robotics
 - 📫 How to reach me: Discord at mechtech34 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I also produce digital music as hobby
-- 🖼️ My Digital Art: [DeviantArt](https://deviantart.com/augustusdruzod)
-
 
 ## Stats & Contributions :
 <img src="https://github-readme-stats.vercel.app/api?username=Kishou-Arima&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Stats">
