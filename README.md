@@ -8,19 +8,29 @@ Robotics Engineer, Digital Artist, PC Gamer, Asset Dev
 - 😄 Pronouns: He/Him
 
 ## Stats & Contributions :
-<img src="https://github-readme-stats.vercel.app/api?username=Kishou-Arima&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishou-Arima&layout=compact&theme=dracula&hide_border=true&count_private=true">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Kishou-Arima&show_icons=true&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Kishou-Arima&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kishou-Arima&show_icons=true" />
+</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishou-Arima&layout=donut&theme=transparent&hide_border=true&count_private=true">
 
 
 ## Tech Stack :
-<img src="https://img.shields.io/badge/dotnet-grey?style=for-the-badge&logo=dotnet" alt=".NET">
-<img src="https://img.shields.io/badge/c%20sharp-grey?style=for-the-badge&logo=csharp" alt="C#">
-<img src="https://img.shields.io/badge/c%20plus%20plus-grey?style=for-the-badge&logo=cplusplus" alt="C++">
-<img src="https://img.shields.io/badge/java-grey?style=for-the-badge&logo=java" alt="JAVA">
-<img src="https://img.shields.io/badge/assembly%20script-grey?style=for-the-badge&logo=assemblyscript" alt="Assembly Script">
-<img src="https://img.shields.io/badge/arduino-grey?style=for-the-badge&logo=arduino" alt="Arduino">
-<img src="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python" alt="Python">
-<img src="https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5" alt="HTML5">
+![.NET](https://img.shields.io/badge/dotnet-grey?style=for-the-badge&logo=dotnet)
+![C#](https://img.shields.io/badge/c%20sharp-grey?style=for-the-badge&logo=csharp)
+![C++](https://img.shields.io/badge/c%20plus%20plus-grey?style=for-the-badge&logo=cplusplus)
+![JAVA](https://img.shields.io/badge/java-grey?style=for-the-badge&logo=java)
+![Assembly Script](https://img.shields.io/badge/assembly%20script-grey?style=for-the-badge&logo=assemblyscript)
+![Arduino](https://img.shields.io/badge/arduino-grey?style=for-the-badge&logo=arduino)
+![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5)
+
 
 
