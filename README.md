@@ -8,19 +8,9 @@ Robotics Engineer, Digital Artist, PC Gamer, Asset Dev
 - 😄 Pronouns: He/Him
 
 ## Stats & Contributions :
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Kishou-Arima&show_icons=true&theme=transparent"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Kishou-Arima&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishou-Arima&show_icons=true" />
-</picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishou-Arima&layout=donut&theme=transparent&hide_border=true&count_private=true">
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kishou-Arima&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Kishou-Arima&show_icons=true&theme=radical)](https://github.com/Kishou-Arima/github-readme-stats-fast)
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kishou-Arima&show_icons=true&theme=radical)](https://github.com/Kishou-Arima/github-readme-stats-fast)
 
 ## Tech Stack :
 ![.NET](https://img.shields.io/badge/dotnet-grey?style=for-the-badge&logo=dotnet)
